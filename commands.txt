@@ -1,0 +1,9 @@
+lsblk - list blocl devices
+
+sudo umount /dev/mmcblk0p1
+sudo umount /dev/mmcblk0p2
+
+sudo mkfs.vfat -F32 -v /path/to/sdcard
+
+
+sudo dd if=tmp/deploy/images/raspberrypi3-64/core-image-base-raspberrypi3-64.rpi-sdimg of=/dev/mmcblk0 bs=1M
