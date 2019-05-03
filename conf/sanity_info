@@ -1,4 +1,4 @@
 SANITY_VERSION 1
-TMPDIR /home/delphi/learnings/yocto/poky/build/rpi3/tmp
-SSTATE_DIR /home/delphi/learnings/yocto/poky/build/sstate-cache
+TMPDIR /home/praveen/learnings/yocto/poky/build/rpi3/tmp
+SSTATE_DIR /home/praveen/learnings/yocto/poky/build/sstate-cache
 NATIVELSBSTRING linuxmint-18.2
